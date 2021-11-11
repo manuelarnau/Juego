@@ -10,6 +10,7 @@ public class Ventana {
 
     private JPanel panel1;
 
+
     private JLabel textId;
     private JLabel textNombre;
     private JLabel textNivel;
